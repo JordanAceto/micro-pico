@@ -1,0 +1,88 @@
+Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datasheet
+1	Unpolarized capacitor	C	C401 C505 C901 C1001 C1302	100p	C_0603_1608Metric	5	 	~
+2	Unpolarized capacitor	C	C501 C502 C504 C902 C1002 C1201 C1301	1n	C_0603_1608Metric	7	 	~
+3	Unpolarized capacitor	C	C703	2n2	C_0805_2012Metric	1	 	~
+4	Unpolarized capacitor	C	C706	2n2	C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2	1	 	~
+5	Unpolarized capacitor	C	C205 C305	3N9 COG	C_0805_2012Metric	2	 	~
+6	Unpolarized capacitor	C	C202 C203 C204 C302 C303 C304	10n	C_0603_1608Metric	6	 	~
+7	Unpolarized capacitor	C	C206 C207 C306 C307 C402 C403 C506 C507 C508 C509 C705 C707 C708 C709 C710 C711 C712 C801 C802 C904 C905 C1003 C1004 C1006 C1007 C1103 C1104 C1303 C1304 C1402 C1409 C1411 C1412	100n	C_0603_1608Metric	33	 	~
+8	Unpolarized capacitor	C	C704	220n	C_Rect_L7.0mm_W3.5mm_P5.00mm	1	 	~
+9	Unpolarized capacitor	C	C1405	470n	C_0805_2012Metric	1	 	~
+10	Unpolarized capacitor	C	C503	470n	C_Rect_L7.0mm_W3.5mm_P5.00mm	1	 	~
+11	Unpolarized capacitor	C	C1403 C1404	1u	C_0805_2012Metric	2	 	~
+12	Unpolarized capacitor	C	C1401 C1406 C1407	4u7	C_0805_2012Metric	3	 	~
+13	Polarized capacitor	C_Polarized	C701 C702 C903 C1005 C1408 C1410	10u	CP_Radial_D6.3mm_P2.50mm	6	 	~
+14	Unpolarized capacitor	C	C201 C301	10u	C_0805_2012Metric	2	 	~
+15	75V 0.15A Fast Switching Diode, SOD-123	1N4148W	D701 D801 D802 D803 D901 D902 D1001 D1002 D1201 D1202	1N4148W	D_SOD-123	10	 	https://www.vishay.com/docs/85748/1n4148w.pdf
+16	Schottky diode	D_Schottky	D1401 D1402 D1403 D1404 D1405	B5819W	D_SOD-123	5	 	~
+17	Light emitting diode	LED	D1406	LED	LED_D3.0mm	1	 	~
+18	Ferrite bead, small symbol	FerriteBead_Small	FB1401 FB1402	100R @ 100MHz	L_0805_2012Metric	2	 	~
+19	DC Barrel Jack with an internal switch	PJ-011A	J107	PJ-011A	CUI_PJ-011A	1	 	~
+20	Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)	PJ301M-12	J101 J102 J103 J104 J105 J106	PJ301M-12	PJ301M-12	6	 	~
+21	Inductor symbol for simulation only	INDUCTOR	L1401	10uH, 1.2A	L_Taiyo-Yuden_NR-50xx	1	 	~
+22		VCF_plug_in_port	P101	VCF_plug_in_port	VCF_plug_in_port	1	 	
+23	0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92	2N3904	Q701	2N3904	TO-92_Inline_Wide	1	 	https://www.onsemi.com/pub/Collateral/2N3903-D.PDF
+24	0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23	MMBT3904	Q801 Q901 Q1001	MMBT3904	SOT-23	3	 	https://www.onsemi.com/pub/Collateral/2N3903-D.PDF
+25	Resistor	R	R1401 R1402	1	R_0603_1608Metric	2	 	~
+26	Resistor	R	R707 R908 R909 R1008 R1009	100	R_0603_1608Metric	5	 	~
+27	Resistor	R	R212 R312 R503 R506	270	R_0603_1608Metric	4	 	~
+28	Resistor	R	R1405	390	R_0603_1608Metric	1	 	~
+29	Resistor	R	R101 R509 R703 R803 R1205	1k	R_0603_1608Metric	5	 	~
+30	Resistor	R	R711	1k8	R_0603_1608Metric	1	 	~
+31	Resistor	R	R215 R315	3k9	R_0603_1608Metric	2	 	~
+32	Resistor	R	R216 R218 R316 R318 R507	4k7	R_0603_1608Metric	5	 	~
+33	Resistor	R	R710 R907 R1007	5k6	R_0603_1608Metric	3	 	~
+34	Resistor	R	R1208 R1406	6k8	R_0603_1608Metric	2	 	~
+35	Resistor	R	R102 R201 R202 R301 R302 R708 R801 R802 R804 R805 R806 R904 R906 R1004 R1006 R1206 R1407	10k	R_0603_1608Metric	17	 	~
+36	Resistor	R	R217 R317 R901 R1001	12k	R_0603_1608Metric	4	 	~
+37	Resistor	R	R1404	13k3	R_0603_1608Metric	1	 	~
+38	Resistor	R	R219 R319	18k	R_0603_1608Metric	2	 	~
+39	Resistor	R	R1305	22k	R_0603_1608Metric	1	 	~
+40	Resistor	R	R403 R404	27k	R_0603_1608Metric	2	 	~
+41	Resistor	R	R203 R303 R505 R508	33k	R_0603_1608Metric	4	 	~
+42	Resistor	R	R211 R311 R712 R713	47k	R_0603_1608Metric	4	 	~
+43	Resistor	R	R1207	56k	R_0603_1608Metric	1	 	~
+44	Resistor	R	R1304	68k	R_0603_1608Metric	1	 	~
+45	Resistor	R	R204 R206 R207 R208 R209 R214 R304 R306 R307 R308 R309 R314 R402 R405 R501 R704 R709 R714 R902 R903 R905 R1002 R1003 R1005 R1203 R1301 R1302 R1303 R1306 R1308	100k	R_0603_1608Metric	30	 	~
+46	Resistor	R	R1403	114k	R_0603_1608Metric	1	 	~
+47	Resistor	R	R1307	120k	R_0603_1608Metric	1	 	~
+48	Resistor	R	R502 R701	150k	R_0603_1608Metric	2	 	~
+49	Resistor	R	R1204	220k	R_0603_1608Metric	1	 	~
+50	Resistor	R	R210 R310 R504 R705	270k	R_0603_1608Metric	4	 	~
+51	Resistor	R	R1201 R1202	330k	R_0603_1608Metric	2	 	~
+52	Resistor	R	R213 R313	470k	R_0603_1608Metric	2	 	~
+53	Resistor	R	R205 R305 R702	1M	R_0603_1608Metric	3	 	~
+54	Resistor	R	R510 R706	10M	R_0603_1608Metric	2	 	~
+55	Trim-potentiometer	R_Potentiometer_Trim	RV203 RV204 RV205 RV303 RV304 RV305	5k	Potentiometer_Bourns_3296W_Vertical	6	 	~
+56	Potentiometer	R_Potentiometer	RV206 RV306 RV903 RV1003	10k	Alpha_RD901F	4	 	~
+57	Potentiometer	R_Potentiometer	RV101 RV201 RV202 RV301 RV302 RV601 RV602 RV603 RV701 RV1201 RV1301	100k	Alpha_RD901F	11	 	~
+58	Potentiometer	R_Potentiometer	RV901 RV902 RV1001 RV1002	1MA	Alpha_RD901F	4	 	~
+59	3 rotary switches with 4 positions	SR1712F-0204	SW201 SW301	SR1712F-0204	SR1712F_rotary_switch	2	 	
+60	Switch, single pole double throw, center OFF position	SW_SPDT_MSM	SW101 SW701 SW801	SW_SPDT_CO	SPDT_mini_toggle	3	 	~
+61	CMOS double 4-channel analog multiplexer/demultiplexer, TSSOP-16/DIP-16/SOIC-16	CD4052B	U14 U17	CD4052B	SOIC-16_3.9x9.9mm_P1.27mm	2	 	http://www.ti.com/lit/ds/symlink/cd4052b.pdf
+62	Triple analog Multiplexer 2 to 1 line	4053	U11	CD4053	TSSOP-16_4.4x5mm_P0.65mm	1	 	http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4051bms-52bms-53bms.pdf
+63	Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-89	L78L05_SOT89	U1402	L78L05_SOT89	SOT-89-3	1	 	http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf
+64	Sample And Hold Unity Gain Follower, SOIC-14	LF398_SOIC14	U10	LF398_SOIC14	SOIC-14_3.9x8.7mm_P1.27mm	1	 	http://www.ti.com/lit/ds/symlink/lf398-n.pdf
+65	2.500V Precision Micropower Shunt Voltage Reference, SOT-23	LM4040DBZ-2.5	U1403 U1404	LM4040C-2.5	SOT-23	2	 	http://www.ti.com/lit/ds/symlink/lm4040-n.pdf
+66	Timer, 555 compatible, SOIC-8	LM555xM	U13 U16	LM555xM	SOIC-8_3.9x4.9mm_P1.27mm	2	 	http://www.ti.com/lit/ds/symlink/lm555.pdf
+67		LT3467A	U1401	LT3467A	TSOT-23-6	1	 	
+68		SSI2130	U1 U2	SSI2130	PQN32_HandSoldering	2	 	
+69		SSI2162	U9	SSI2162	SSOP-10_3.9x4.9mm_P1.00mm	1	 	https://www.soundsemiconductor.com/downloads/ssi2162datasheet.pdf
+70	Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8	TL072	U3 U4 U5 U6 U7 U12 U15	TL072	SOIC-8_3.9x4.9mm_P1.27mm	7	 	http://www.ti.com/lit/ds/symlink/tl071.pdf
+
+
+
+
+
+Project info:
+Schematic:	micro_pico
+Variant:	default
+Revision:	0.1
+Date:	2022-08-18
+KiCad Version:	6.0.5+dfsg-1~bpo11+1
+Statistics:
+Component Groups:	70
+Component Count:	267 (208 SMD/ 48 THT)
+Fitted Components:	267 (208 SMD/ 48 THT)
+Number of PCBs:	1
+Total Components:	267
