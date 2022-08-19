@@ -7,8 +7,8 @@
     - sine, triangle, sawtooth, and pulse waves available
     - VCO B can by syncronized to VCO A (hard and soft sync available)
     - the VCOs share a single manual pulse width control
-- Two minimoog style ADR envelope generators
-    - These envelopes have all four A, D, S, and R stages, but the D and R stages are controlled by a single potentiometer
+- Two minimoog style ADS envelope generators
+    - These envelopes cycle through all four A, D, S, and R stages, but the Decay and Release stages share a single potentiometer
 - Modulation LFO
     - triangle, square, and sample & hold waveforms
     - can be routed to VCO FM, PWM, or VCF modulation
