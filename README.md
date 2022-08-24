@@ -45,3 +45,13 @@ The feature set is quite limited, emphasis is on small, simple, and all-analog s
         - you can put some 2mm-ish washers between the lid and the box
         - eventually I hope to make a gasket that adds a few mm height and looks cleaner
     - other chassis at least as big as the 1590XX (plus a few mm taller) could work
+
+## Status:
+
+A complete synthesizer has been built using documents which are a little bit behind the currently published files here.
+
+This instrument generally works, but it needed a few pcb kludges, and there are a few areas for improvement, listed in the `github Issues`.
+
+I would wait a little for the design to stabilize before ordering boards. There are some changes which have been started but not published yet.
+
+The current design files would *probably* result in a working synth, but have not been tested yet.
