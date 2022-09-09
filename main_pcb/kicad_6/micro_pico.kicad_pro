@@ -473,6 +473,10 @@
       "LFO_switching"
     ],
     [
+      "fa59e36c-413e-4118-b5f2-8db4c3ac0ba8",
+      "gate_conditioner"
+    ],
+    [
       "9f4c2526-13b8-48a5-a1f1-5083f4b4b030",
       "VCF_env"
     ],
