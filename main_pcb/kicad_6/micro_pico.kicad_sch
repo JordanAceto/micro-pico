@@ -3491,7 +3491,7 @@
       (reference "U12") (unit 3) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/1f1ff94f-67ee-4536-85d0-f1fa34b57db8/9f4c2526-13b8-48a5-a1f1-5083f4b4b030/88b520f0-ca32-4b3a-b061-e2a33d834a81"
-      (reference "U13") (unit 1) (value "LM555xM") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U13") (unit 1) (value "TLC555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/1f1ff94f-67ee-4536-85d0-f1fa34b57db8/9f4c2526-13b8-48a5-a1f1-5083f4b4b030/f71dcc1d-72d2-4b7b-a63a-77d75c40ce3f"
       (reference "U14") (unit 1) (value "CD4052B") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
@@ -3506,7 +3506,7 @@
       (reference "U15") (unit 3) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/1f1ff94f-67ee-4536-85d0-f1fa34b57db8/fe990f51-2f04-42a5-93d7-673c02e636c9/88b520f0-ca32-4b3a-b061-e2a33d834a81"
-      (reference "U16") (unit 1) (value "LM555xM") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U16") (unit 1) (value "TLC555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/1f1ff94f-67ee-4536-85d0-f1fa34b57db8/fe990f51-2f04-42a5-93d7-673c02e636c9/f71dcc1d-72d2-4b7b-a63a-77d75c40ce3f"
       (reference "U17") (unit 1) (value "CD4052B") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")

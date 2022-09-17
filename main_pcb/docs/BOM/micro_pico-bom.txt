@@ -61,11 +61,11 @@ Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datashee
 60	Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-89	L78L05_SOT89	U1402	L78L05_SOT89	SOT-89-3	1	 	http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf
 61	Sample And Hold Unity Gain Follower, SOIC-14	LF398_SOIC14	U10	LF398_SOIC14	SOIC-14_3.9x8.7mm_P1.27mm	1	 	http://www.ti.com/lit/ds/symlink/lf398-n.pdf
 62	2.500V Precision Micropower Shunt Voltage Reference, SOT-23	LM4040DBZ-2.5	U201 U301	LM4040C-2.5	SOT-23	2	 	http://www.ti.com/lit/ds/symlink/lm4040-n.pdf
-63	Timer, 555 compatible, SOIC-8	LM555xM	U13 U16	LM555xM	SOIC-8_3.9x4.9mm_P1.27mm	2	 	http://www.ti.com/lit/ds/symlink/lm555.pdf
-64		LT3467A	U1401	LT3467A	TSOT-23-6	1	 	
-65		SSI2130	U1 U2	SSI2130	PQN32_HandSoldering	2	 	
-66		SSI2162	U9	SSI2162	SSOP-10_3.9x4.9mm_P1.00mm	1	 	https://www.soundsemiconductor.com/downloads/ssi2162datasheet.pdf
-67	Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8	TL072	U3 U4 U5 U6 U7 U12 U15	TL072	SOIC-8_3.9x4.9mm_P1.27mm	7	 	http://www.ti.com/lit/ds/symlink/tl071.pdf
+63		LT3467A	U1401	LT3467A	TSOT-23-6	1	 	
+64		SSI2130	U1 U2	SSI2130	PQN32_HandSoldering	2	 	
+65		SSI2162	U9	SSI2162	SSOP-10_3.9x4.9mm_P1.00mm	1	 	https://www.soundsemiconductor.com/downloads/ssi2162datasheet.pdf
+66	Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8	TL072	U3 U4 U5 U6 U7 U12 U15	TL072	SOIC-8_3.9x4.9mm_P1.27mm	7	 	http://www.ti.com/lit/ds/symlink/tl071.pdf
+67	Timer, 555 compatible, SOIC-8	LM555xM	U13 U16	TLC555	SOIC-8_3.9x4.9mm_P1.27mm	2	 	
 
 
 
